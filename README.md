@@ -1,2 +1,2 @@
-# exercisetracker
-Exercise Tracker developed using the MERN Stack
+# Exercise Tracker developed using the MERN Stack
+
